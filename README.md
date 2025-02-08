@@ -6,7 +6,9 @@ display your contact, skills, experience, education and additional info. about y
 
 ## Project Page
 
-You can visit the project's page here: Single-Page-HTML-CV (https://github.com/VedPatel-tech/Single-Page-HTML-CV)
+[Click here to visit the project page](https://github.com/VedPatel-tech/Single-Page-HTML-CV)  
+(You can also copy the URL: [Single-Page-HTML-CV](https://github.com/VedPatel-tech/Single-Page-HTML-CV)
+
 
 ## Table of Contents
 
