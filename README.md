@@ -5,10 +5,7 @@ It showcases a personal resume that can be customized to
 display your contact, skills, experience, education and additional info. about yourself!
 
 ## Project Page
-
-[Click here to visit the project page](https://github.com/VedPatel-tech/Single-Page-HTML-CV)  
-(You can also copy the URL: [Single-Page-HTML-CV](https://github.com/VedPatel-tech/Single-Page-HTML-CV)
-
+https://roadmap.sh/projects/single-page-cv
 
 ## Table of Contents
 
