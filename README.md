@@ -4,9 +4,9 @@ This repository contains a simple, single-page HTML-based Curriculum Vitae (CV) 
 It showcases a personal resume that can be customized to 
 display your contact, skills, experience, education and additional info. about yourself!
 
-## Project URL
-You can access the project at the following URL:
-[Project URL](https://github.com/VedPatel-tech/Single-Page-HTML-CV)
+## Project Page
+
+You can visit the project's page here: Single-Page-HTML-CV (https://your-project-url.com)
 
 ## Table of Contents
 
